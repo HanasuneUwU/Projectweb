@@ -69,11 +69,11 @@ function MM_swapImage() { //v3.0
 </script>
 </head>
 
-<body onload="MM_preloadImages('file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Unnamed Site 4/16.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Unnamed Site 4/2.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Unnamed Site 4/4.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Unnamed Site 4/6.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Unnamed Site 4/8.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Unnamed Site 4/10.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Unnamed Site 4/12.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Unnamed Site 4/14.png')">
+<body onload="MM_preloadImages('images/16.png','images/2.png','images/4.png','images/6.png','images/8.png','images/10.png','images/12.png','images/14.png')">
 <div align="center">
   <table width="1604" border="0" align="center" cellpadding="1" cellspacing="1">
     <tr>
-      <td width="1812"><img src="file:///C|/Users/User10/OneDrive/เดสก์ท็อป/เว็บไซต์/Head/ROCKET SHOP.png" width="1600" height="400" /></td>
+      <td width="1812"><img src="images/Head/ROCKET SHOP.png" width="1600" height="400" /></td>
     </tr>
     <tr>
       <td height="845"><table width="1604" height="832" border="0" cellpadding="1" cellspacing="1">
